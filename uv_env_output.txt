@@ -1,0 +1,28 @@
+
+=== OS Executable Path ($PATH) ===
+  - /Users/reeaarana/Desktop/Engineering_Tools/epita_reeaa.rana_epita/.venv/bin
+  - /Users/reeaarana/miniconda3/bin
+  - /Users/reeaarana/miniconda3/condabin
+  - /opt/homebrew/bin
+
+=== Active Python Binary (sys.executable) ===
+  /Users/reeaarana/Desktop/Engineering_Tools/epita_reeaa.rana_epita/.venv/bin/python
+
+=== Python Version ===
+  3.13.11
+
+=== Virtual Env Prefix (sys.prefix) ===
+  /Users/reeaarana/Desktop/Engineering_Tools/epita_reeaa.rana_epita/.venv
+
+=== Base Prefix (sys.base_prefix) ===
+  /Users/reeaarana/miniconda3
+
+=== Is in Virtual Environment? ===
+  True
+
+=== Search Paths for Imports (sys.path) ===
+  - /Users/reeaarana/Desktop/Engineering_Tools/epita_reeaa.rana_epita/scripts
+  - /Users/reeaarana/miniconda3/lib/python313.zip
+  - /Users/reeaarana/miniconda3/lib/python3.13
+  - /Users/reeaarana/miniconda3/lib/python3.13/lib-dynload
+  - /Users/reeaarana/Desktop/Engineering_Tools/epita_reeaa.rana_epita/.venv/lib/python3.13/site-packages
